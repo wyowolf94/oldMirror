@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Mirror</string>
+    <string name="choice_intro">Choose an option:</string>
+    <string name="design0">Default design</string>
+    <string name="design1">Stone design</string>
+    <string name="design2">Metal design</string>
+</resources>

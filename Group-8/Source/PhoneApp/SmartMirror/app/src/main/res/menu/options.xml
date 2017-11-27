@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/network"
+        android:title="Network Settings"/>
+
+    <item
+        android:id="@+id/sleep"
+        android:title="Sleep Timer"/>
+
+    <item
+        android:id="@+id/handGestures"
+        android:title="Hand Gestures"/>
+
+    <item
+        android:id="@+id/voiceControl"
+        android:title="Voice Control"/>
+
+    <item
+        android:id="@+id/power"
+        android:title="Power"/>
+
+    <item
+        android:id="@+id/clear"
+        android:title="Clear Mirror"/>
+
+</menu>

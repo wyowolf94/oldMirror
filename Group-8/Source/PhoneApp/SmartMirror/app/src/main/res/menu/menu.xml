@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/clock"
+        android:title="Clock" />
+
+    <item
+        android:id="@+id/weather"
+        android:title="Weather" />
+
+    <item
+        android:id="@+id/reminder"
+        android:title="Reminder" />
+
+    <item
+        android:id="@+id/alarm"
+        android:title="Alarm" />
+
+    <item
+        android:id="@+id/empty"
+        android:title="Clear Panel" />
+
+    <item
+        android:id="@+id/colorOptions"
+        android:title="Color Options" />
+
+</menu>

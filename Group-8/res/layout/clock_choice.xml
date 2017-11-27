@@ -1,0 +1,41 @@
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_height="wrap_content"
+    android:layout_width="fill_parent">
+    <LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+        android:orientation="vertical"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:padding="10dp">
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/choice_intro"
+            android:textStyle="italic" />
+        <ImageButton
+            android:id="@+id/design_0"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:src="@drawable/clock_image"
+            android:contentDescription="@string/design0"
+            android:background="#00000000"
+            android:padding="5dp"/>
+        <ImageButton
+            android:id="@+id/design_1"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:src="@drawable/clock_image_stone"
+            android:contentDescription="@string/design1"
+            android:background="#00000000"
+            android:padding="5dp"/>
+        <ImageButton
+            android:id="@+id/design_2"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:src="@drawable/clock_image_metal"
+            android:contentDescription="@string/design2"
+            android:background="#00000000"
+            android:padding="5dp" />
+
+    </LinearLayout>
+</ScrollView>
